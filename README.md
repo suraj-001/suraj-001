@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/c/suraj kumar agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suraj kumar agarwal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/surajkcoding19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="surajkcoding19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/surajkumaragarwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajkumaragarwl" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suraj36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj36" height="30" width="40" /></a>
+<a href="https://leetcode.com/suraj_kr_ag_101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj36" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<surajkumaragarwal36>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<surajkumaragarwal36>" height="30" width="40" /></a>
 </p>
 
